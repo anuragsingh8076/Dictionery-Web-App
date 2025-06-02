@@ -1,6 +1,3 @@
-# Dictionery-Web-App
-
-
 # 📖 Dictionary Web App
 
 Welcome to the **Dictionary Web App** — a responsive, beginner-friendly web application that helps users find definitions, parts of speech, examples, and antonyms for English words. It uses the free and open-source [Dictionary API](https://dictionaryapi.dev/) to fetch accurate and real-time information.
